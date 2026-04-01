@@ -1,0 +1,7 @@
+imagecodecs
+numpy
+pandas
+tifffile
+matplotlib
+segment_anything
+opencv-python
